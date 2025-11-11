@@ -1,0 +1,17 @@
+# --- Security ---
+.env
+
+# --- Python ---
+airbnb-venv/
+__pycache__/
+*.pyc
+
+# --- Data ---
+Airbnb Data/
+*.csv
+
+# --- VS Code ---
+.vscode/
+
+# --- macOS ---
+.DS_Store
